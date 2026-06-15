@@ -4,7 +4,7 @@ I'm a computational materials scientist (PhD, CU Boulder 2026) specializing in h
 My doctoral research focused on mapping thermodynamic stability, electronic structure, and magnetic exchange interactions across 6,500+ halide perovskite compositions using high-throughput DFT (VASP), automated Python workflows, and HPC infrastructure.
 
 I'm now extending this foundation toward machine learning and machine learned interatomic potentials (MACE-based MLIPs) autonomous materials screening.
-What I'm building.
+What I'm building:
 - ML pipeline for halide perovskite property prediction: feature engineering, model validation, and MACE-MLIP development on my DFT dataset of 6,500+ compositions → ML_alloy_halide_perovskites
 <!--
 **suxuen/suxuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
